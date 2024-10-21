@@ -1,0 +1,21 @@
+{
+  "name": "simple-mysql-backend",
+  "version": "1.0.0",
+  "description": "https://medium.com/@clint360.rebase/building-a-simple-backend-with-nodejs-mysql-sequelize-and-express-e08f021537dd",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
